@@ -1,0 +1,5 @@
+env
+dev_plan.pages
+test_sample.mp4
+__pycache__/
+*.pyc
