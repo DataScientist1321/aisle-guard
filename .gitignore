@@ -4,3 +4,6 @@ test_sample.mp4
 __pycache__/
 *.pyc
 yolov8n.pt
+test_sample_2.mp4
+yolov8n-pose.pt
+events
